@@ -1,0 +1,1 @@
+# 25.mean-of-the-number-of-the-tuple
